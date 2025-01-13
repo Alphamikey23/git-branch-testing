@@ -1,0 +1,1 @@
+amend only work when it's not pushed to remote.
