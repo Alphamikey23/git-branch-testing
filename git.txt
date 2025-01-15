@@ -1,1 +1,1 @@
-Echo this is a git
+I'm chaning the same file on both branches to see if i can merge. This is leftBranch
