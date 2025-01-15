@@ -1,1 +1,1 @@
-Echo this is a git
+I'm changing same file but in different branches and i will merge them
