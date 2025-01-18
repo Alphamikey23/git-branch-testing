@@ -1,2 +1,1 @@
-This is new branch commit name "branch early, branch often"
-Successfully branch to right wing;
+Let's try to change the code in different branch and try to merge to main without modifying the same file
